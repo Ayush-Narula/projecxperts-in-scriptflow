@@ -1,0 +1,18 @@
+{
+  "name": "projecxperts",
+  "version": "1.0.0",
+  "description": "this is a projecxperts website ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projecxperts",
+    "scriptflow"
+  ],
+  "author": "ayush",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^11.9.0"
+  }
+}
